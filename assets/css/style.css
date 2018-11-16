@@ -159,3 +159,33 @@ span.hover-3:after {
 .site_menu_item:hover span.hover-3:before, .site_menu_item:hover span.hover-3:after,{
   width: 50%;
 }
+.intr{
+    padding-top: 110px;
+    padding-bottom: 110px;
+       max-width: 1310px;
+    width: 92%;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.intro{
+    display: flex;
+}
+.info { 
+padding-left: 110px;
+    
+    
+}
+.title{
+    font-size: 3.8rem;
+    margin: 0;
+}
+.subtitle{
+    font-size: 2.4rem;
+    color:#c6c6c6;
+}
+.about{
+    font-size: 1.4rem;
+}
