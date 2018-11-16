@@ -10,11 +10,11 @@
 
 }
 
-#body {
+body {
     width: 100%;
     max-width: 100%;
     margin: 0;
-    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .container {
